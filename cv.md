@@ -2,9 +2,11 @@
 ---
 
 ## Experience
+---
+__Lecturer__
 
-** Lecturer **
 _International Information Technologies University_
+
 _sept 2020 - till now_
 
 
