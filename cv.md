@@ -35,6 +35,8 @@ _Nazarbayev University_   **june 2015 - august 2015**
 
 ## Languages
 ---
+
+
 | Languages           | Level                                        | 
 | --------------------|:---------------------------------------------| 
 | English             | ielts 6.0                                    | 
