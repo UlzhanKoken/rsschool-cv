@@ -23,6 +23,7 @@ _Nazarbayev University_   **june 2015 - august 2015**
 
 ## Education
 ---
+
 | 1. __International information technologies university__                      |
 | _Master's degree_   **Computer Science and Software Engineering 2017-2020**   |
 |-------------------------------------------------------------------------------|
