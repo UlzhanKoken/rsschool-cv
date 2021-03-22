@@ -5,7 +5,10 @@ Me in:
 [GitHub](https://github.com/UlzhanKoken)
 [Behance](https://www.behance.net/kokenovaul370c)
 # My Portfolio
-[virtual piano](https://ulzhankoken.github.io/virtual-piano-work/)
+1. [virtual piano](https://ulzhankoken.github.io/virtual-piano-work/)
+2. [planetarium](https://ulzhankoken.github.io/Planetarium_work/)
+
+
 
 ## Experience
 ---
